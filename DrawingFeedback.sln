@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingFeedback", "DrawingFeedback\DrawingFeedback.csproj", "{6B98354A-D210-4E82-B2BB-61FCB219207E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Authentication.Cognito", "Infrastructure.Authentication.Cognito\Infrastructure.Authentication.Cognito.csproj", "{A2F3F81E-67B3-4C73-BCF2-69BF8E45946B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{6B98354A-D210-4E82-B2BB-61FCB219207E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B98354A-D210-4E82-B2BB-61FCB219207E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B98354A-D210-4E82-B2BB-61FCB219207E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2F3F81E-67B3-4C73-BCF2-69BF8E45946B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F3F81E-67B3-4C73-BCF2-69BF8E45946B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F3F81E-67B3-4C73-BCF2-69BF8E45946B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F3F81E-67B3-4C73-BCF2-69BF8E45946B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
