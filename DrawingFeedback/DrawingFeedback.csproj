@@ -18,7 +18,9 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Infrastructure.Authentication.Cognito\Infrastructure.Authentication.Cognito.csproj" />
+      <ProjectReference Include="..\Infrastructure.Authentication\Infrastructure.Authentication.csproj" />
     </ItemGroup>
+
+
 
 </Project>

@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingFeedback", "DrawingFeedback\DrawingFeedback.csproj", "{6B98354A-D210-4E82-B2BB-61FCB219207E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Authentication.Cognito", "Infrastructure.Authentication.Cognito\Infrastructure.Authentication.Cognito.csproj", "{A2F3F81E-67B3-4C73-BCF2-69BF8E45946B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Authentication", "Infrastructure.Authentication\Infrastructure.Authentication.csproj", "{A2F3F81E-67B3-4C73-BCF2-69BF8E45946B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
